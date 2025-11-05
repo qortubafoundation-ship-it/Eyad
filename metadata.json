@@ -1,0 +1,7 @@
+{
+  "name": "مجموعة أدوات Gemini الصوتية",
+  "description": "تطبيق يستخدم واجهة برمجة تطبيقات Gemini لنسخ الصوت المسجل من الميكروفون وتحويل النص إلى كلام.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
